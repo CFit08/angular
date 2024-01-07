@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "deadline": "1900-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": 2,
+      "title": "Hello Again World",
+      "deadline": "2000-01-01",
+      "completed": true,
+      "archived": false
+    },
+    {
+      "title": "Przekreslenie nie działa",
+      "deadline": "2024-01-31",
+      "completed": false,
+      "archived": false,
+      "id": 3
+    },
+    {
+      "title": "archive",
+      "deadline": "2024-01-29",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    }
+  ]
+}
